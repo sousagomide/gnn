@@ -1,0 +1,6 @@
+Chapter 3 - Creating Node Representations with DeepWalk
+    - skip-gram.py
+    - random_walk.py
+    - deep_walk.py
+
+Chapter 4 - Improving Embeddings with Biased Random Walks in Node2Vec
