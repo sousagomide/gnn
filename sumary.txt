@@ -4,3 +4,8 @@ Chapter 3 - Creating Node Representations with DeepWalk
     - deep_walk.py
 
 Chapter 4 - Improving Embeddings with Biased Random Walks in Node2Vec
+    - random_walk_bias.py
+    - node2vec_imp.py
+    - movie_recsys.py
+
+Chapter 5 - Including Node Features with Vanilla Neural Networks
