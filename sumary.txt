@@ -9,3 +9,6 @@ Chapter 4 - Improving Embeddings with Biased Random Walks in Node2Vec
     - movie_recsys.py
 
 Chapter 5 - Including Node Features with Vanilla Neural Networks
+    - cora_dataset.py
+    - wikipedia_dataset.py
+    - export_gephi.py
