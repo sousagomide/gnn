@@ -14,3 +14,4 @@ Chapter 5 - Including Node Features with Vanilla Neural Networks
     - export_gephi.py
 
 Chapter 6 - Introducing Graph Convolution Networks
+    - gcn.py
