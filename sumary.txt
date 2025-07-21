@@ -15,3 +15,4 @@ Chapter 5 - Including Node Features with Vanilla Neural Networks
 
 Chapter 6 - Introducing Graph Convolution Networks
     - gcn.py
+    - wikipedia_gcn.py
