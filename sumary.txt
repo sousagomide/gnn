@@ -18,3 +18,4 @@ Chapter 6 - Introducing Graph Convolution Networks
     - wikipedia_gcn.py
 
 Chapter 7 - Graph Attention Networks
+    - graph_attention_layer.py
