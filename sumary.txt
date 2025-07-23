@@ -19,3 +19,11 @@ Chapter 6 - Introducing Graph Convolution Networks
 
 Chapter 7 - Graph Attention Networks
     - graph_attention_layer.py
+    - gat_pytorch_geometric.py
+    - citesser.py
+
+Chapter 8 - Scaling Up Graph Neural Networks with GraphSAGE
+
+Termos:
+    GCN - Graph Convolution Networks
+    GAT - Graph Attention Networks
